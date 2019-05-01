@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font-family: georgia 14px;
+}
+p {
+  color:;
+  text-align:center;
+}
+p #link{
+  text-align:center;
+  color:#ffc200;
+  font-size:3em;
+}

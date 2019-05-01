@@ -1,0 +1,30 @@
+*{
+  padding=0;
+  margin=0;
+}
+
+body{
+  background-color:#121210;
+  color:#fff;
+  min-width:100%;
+  min-height:100%;
+  font: georgia 14px;
+}
+h1{
+  padding-top:150px;
+  color:#e3ad00;
+  text-align:center;
+}
+
+#formDiv{
+  width=200px;
+  text-align:center;
+}
+#header{
+  height:200px;
+  width:100%;
+}
+input{
+  margin-top:5px;
+  margin-bottom:1em;
+}
