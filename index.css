@@ -6,10 +6,12 @@
   font-family: georgia 14px;
 }
 p {
+  padding:150px;
   color:;
   text-align:center;
 }
 p #link{
+  padding:150px;
   text-align:center;
   color:#ffc200;
   font-size:3em;
