@@ -1,12 +1,13 @@
 <?php
-$servername = "sql201.epizy.com";
-$username = "epiz_23847122";
-$password = "7kG7te4t0";
-$db = "epiz_23847122_guestbook";
+$servername = "127.0.0.1:3306";
+$username = "root";
+$password = "";
+$db = "friends";
 
-echo $fName=$_POST["fName"];
-echo $lName=$_POST["lName"];
-echo $age=$_POST["age"];
+echo $fName=$_POST["fName"]."<br>";
+echo $lName=$_POST["lName"]."<br>";
+echo $age=$_POST["age"]."<br>";
+echo "<a href='index.html'>home</a><br>";
 
 
 $conn = mysqli_connect($servername, $username, $password);
